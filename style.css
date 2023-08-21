@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.main{
+    display: flex;
+    position: center;
+}
+.r1{
+    height: 50px;
+    width: 200px;
+    background: gold;
+}
+.r2{
+    height: 50px ;
+    width:200px ;
+    background:navy ;
+}
+.r3{
+    height: 50px;
+    width:200px ;
+    background: gray;
+}
+.r4{
+    height:50px ;
+    width:200px ;
+    background: greenyellow;
+}
+.r5{ 
+     height:50px ;
+    width: 200px ;
+    background: pink;
+}
+.r6{
+    height:50px ;
+    width:200px ;
+    background:purple ;
+}
+.r7{
+      height:50px ;
+    width: 200px;
+    background:green ;
+}
+.r8{ 
+     height:50px ;
+    width:200px ;
+    background: yellow;
+}
